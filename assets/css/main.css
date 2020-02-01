@@ -2114,7 +2114,7 @@ html {
 			margin: 0 0 2em 0;
 		}
 
-			#banner header h2 {
+			#banner header h2, .container.box.style3 h2 {
 				font-weight: 400;
 				font-size: 1.75em;
 				letter-spacing: 8px;
